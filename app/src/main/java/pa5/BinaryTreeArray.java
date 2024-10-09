@@ -3,7 +3,6 @@
  */
 package pa5;
 
-
 /**
  *  Interface for a binary tree implemented using an array
 *   The tree must adhere to the properties of a complete binary tree: 
@@ -35,7 +34,7 @@ interface ArrayBasedBinaryTree {
     String preOrder();
 
     /**
-     * Print the tree in post-order
+     * Returns the tree in post-order
      */
     String postOrder();
 
