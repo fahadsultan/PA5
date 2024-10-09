@@ -51,7 +51,10 @@ interface ArrayBasedBinaryTree {
     void delete(int element);
 }
 
-// Array based implementation of a simple binary tree
-public class BinaryTreeArray implements ArrayBasedBinaryTree{
-    
-}
+// // Uncomment the following code to implement the BinaryTreeArray class
+// public class BinaryTreeArray implements ArrayBasedBinaryTree{
+
+//     public static void main(String[] args){
+
+//     }   
+// }
